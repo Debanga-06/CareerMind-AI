@@ -2,7 +2,7 @@ import axios from 'axios'
 
 // The frontend only ever talks to our own FastAPI backend. The SerpApi
 // key lives on the backend and is never exposed here.
-const API_BASE_URL = import.meta.env.VITE_API_BASE_URL || 'http://localhost:8000/api'
+const API_BASE_URL = import.meta.env.VITE_API_BASE_URL || 'https://carriermind-ai.onrender.com/api'
 
 export const apiClient = axios.create({
   baseURL: API_BASE_URL,
