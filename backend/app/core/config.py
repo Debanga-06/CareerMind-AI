@@ -30,7 +30,7 @@ class Settings(BaseSettings):
 
     # --- CORS ---
     # Comma separated list of allowed origins for local React dev servers.
-    CORS_ORIGINS: str = "http://localhost:3000,http://localhost:5173"
+    CORS_ORIGINS: str = "http://localhost:3000,http://localhost:5173,https://carrier-mind-ai.vercel.app"
 
     # --- SerpApi ---
     # Required. Never returned in any response body/schema.
