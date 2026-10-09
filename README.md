@@ -5,8 +5,6 @@ See where the market is going. Discover where you stand. Build the path to get t
 
 CareerGraph AI turns real, current job postings into a personal action plan. You enter a target career, your skills, your experience level, and (optionally) a location. It searches live job listings, measures which skills employers are asking for right now, compares them to yours, scores every job against your profile, and generates a learning roadmap, project ideas, and resources to close the gaps.
 
-Built for the SerpApi India Hackathon 2026.
-
 ---
 
 ## Table of contents
